@@ -1,5 +1,9 @@
 # hardened-nixpkgs
 
+## Goal
+
+The repository focuses on providing as much hardening in package.nix as possible, differing from the upstream packaging philosophy, for use by the organization in its other projects.
+
 ## License
 
 This project is dual-licensed under your choice of either:
